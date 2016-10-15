@@ -17,6 +17,8 @@ cp ../composer.json composer.json
 
 echo "test.php" >> .gitignore
 
+rm -rf .git
+
 touch test.php
 
 echo "Complete!!!"
