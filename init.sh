@@ -12,6 +12,7 @@ cp .env.example .env
 cp .env.example .env.testing.example
 
 cp ../shipit.sh shipit.sh
+cp ../after_shipit.sh after_shipit.sh
 cp ../gitlab.ci.yml gitlab.ci.yml
 cp ../composer.json composer.json
 
