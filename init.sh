@@ -10,8 +10,8 @@ cd template
 
 cp .env.example .env
 cp .env.example .env.testing.example
-cp run.sh init.sh
 
+cp ../run.sh init.sh
 cp ../shipit.sh shipit.sh
 cp ../after_shipit.sh after_shipit.sh
 cp ../gitlab.ci.yml gitlab.ci.yml
