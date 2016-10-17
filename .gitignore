@@ -1,4 +1,4 @@
-shipit.sh
-after_shipit.sh
-composer.json
-gitlab.ci.yml
+/shipit.sh
+/after_shipit.sh
+/composer.json
+/gitlab.ci.yml
